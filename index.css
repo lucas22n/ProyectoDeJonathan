@@ -1,0 +1,14 @@
+body{
+	background-image: url("1-16063_kids-wallpapers-kids-background-hd.jpg") ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+.card{
+	margin-left: 5%;
+	margin-bottom: 5%;
+
+}
+
